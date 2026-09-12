@@ -1,0 +1,4 @@
+company_name,price_min,price_max,open_date,close_date,listing_date,issue_size,issue_type,status,ipo_price,listing_price,cmp
+Apex Renewables,210,225,2026-10-05,2026-10-07,2026-10-12,₹1200 Cr,book_built,upcoming,225,,
+Northstar Technologies,480,500,2026-08-18,2026-08-20,2026-08-25,₹850 Cr,book_built,listed,500,575,610
+Harbor Foods,95,100,2026-09-14,2026-09-16,2026-09-21,₹300 Cr,fixed_price,open,100,,

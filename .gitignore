@@ -1,0 +1,10 @@
+.env
+*.pyc
+__pycache__/
+node_modules/
+frontend/dist/
+backend/.venv/
+backend/uploads/*
+!backend/uploads/.gitkeep
+.DS_Store
+.vscode/
